@@ -75,9 +75,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Feel free to reach out if you have any questions or suggestions!
 
-- GitHub: [@yourusername](https://github.com/nethinduhansaka-dev)
-- LinkedIn: [Your Name](https://linkedin.com/in/nethinduhansaka-a752072b4)
-- Email: your.email@example.com
+- GitHub: [@nethinduhansaka-dev](https://github.com/nethinduhansaka-dev)
+- LinkedIn: [Nethindu Hansaka](https://linkedin.com/in/nethinduhansaka-a752072b4)
+
 
 ## ⭐ Show your support
 
